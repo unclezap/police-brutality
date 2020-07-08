@@ -12,6 +12,7 @@
 		"url": "git+https://github.com/McQTip22/us-gdp-chart.git"
 	},
 	"author": "Brian McEwen <brian.t.mcewen@gmail.com> (http://www.brianmcewen.com)",
+	"contributors": "Zeb Blackwell",
 	"license": "ISC",
 	"bugs": {
 		"url": "https://github.com/McQTip22/us-gdp-chart/issues"
